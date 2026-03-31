@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What two components does RAG combine?",
+    "expected": "parametric and non-parametric memory"
+  },
+  {
+    "question": "What retriever does RAG use?",
+    "expected": "Dense Passage Retriever or DPR"
+  },
+  {
+    "question": "What generator does RAG use?",
+    "expected": "BART"
+  },
+  {
+    "question": "What is the difference between RAG-Token and RAG-Sequence?",
+    "expected": "RAG-Token predicts each token from a different document, RAG-Sequence uses the same document for the whole sequence"
+  },
+  {
+    "question": "What tasks did RAG achieve state of the art on?",
+    "expected": "Natural Questions, WebQuestions, CuratedTrec"
+  }
+]
